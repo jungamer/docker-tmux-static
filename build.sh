@@ -17,7 +17,7 @@ make install
 cd ..
 
 # libevent
-git clone git://github.com/libevent/libevent.git
+git clone https://github.com/libevent/libevent.git
 cd libevent
 git checkout release-2.1.8-stable
 ./autogen.sh
